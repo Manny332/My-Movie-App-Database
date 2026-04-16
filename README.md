@@ -285,10 +285,12 @@ This deployment provides a structured dataset that can instantly power movie app
 
 - Save and upload generated JSON files to remote repo for deployment usage
 
-- Pull into VPS/VM
-
 - On the production server, run git pull to update the dataset
 
 - Connet Mongodb
 
 - Import datase into Mongdb
+
+## P.S
+
+This repository was created to give a guide on how to generate dataset for a movie app and not intended to expose the database of any movie application. It is strictly for educational purpose.
